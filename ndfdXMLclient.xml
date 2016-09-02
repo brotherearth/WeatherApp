@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<dwml version="1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.nws.noaa.gov/forecasts/xml/DWMLgen/schema/DWML.xsd">
+  <head>
+    <product srsName="WGS 1984" concise-name="time-series" operational-mode="official">
+      <title>NOAA's National Weather Service Forecast Data</title>
+      <field>meteorological</field>
+      <category>forecast</category>
+      <creation-date refresh-frequency="PT1H">2016-08-30T23:14:25Z</creation-date>
+    </product>
+    <source>
+      <more-information>http://www.nws.noaa.gov/forecasts/xml/</more-information>
+      <production-center>Meteorological Development Laboratory<sub-center>Product Generation Branch</sub-center></production-center>
+      <disclaimer>http://www.nws.noaa.gov/disclaimer.html</disclaimer>
+      <credit>http://www.weather.gov/</credit>
+      <credit-logo>http://www.weather.gov/images/xml_logo.gif</credit-logo>
+      <feedback>http://www.weather.gov/feedback.php</feedback>
+    </source>
+  </head>
+  <data>
+    <location>
+      <location-key>point1</location-key>
+      <point latitude="38.99" longitude="-77.01"/>
+    </location>
+    <moreWeatherInformation applicable-location="point1">http://forecast.weather.gov/MapClick.php?textField1=38.99&amp;textField2=-77.01</moreWeatherInformation>
+    <time-layout time-coordinate="local" summarization="none">
+      <layout-key>k-p3h-n41-1</layout-key>
+      <start-valid-time>2016-08-30T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-08-30T23:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-08-31T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-08-31T05:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-08-31T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-08-31T11:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-08-31T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-08-31T17:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-08-31T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-08-31T23:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-01T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-01T05:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-01T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-01T11:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-01T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-01T17:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-01T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-01T23:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-02T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-02T05:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-02T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-02T11:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-02T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-02T17:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-02T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-03T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-03T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-03T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-03T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-04T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-04T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-04T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-04T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-05T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-05T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-05T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-05T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-06T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-06T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-06T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2016-09-06T20:00:00-04:00</start-valid-time>
+    </time-layout>
+    <parameters applicable-location="point1">
+      <weather time-layout="k-p3h-n41-1">
+        <name>Weather Type, Coverage, and Intensity</name>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions>
+          <value coverage="slight chance" intensity="none" weather-type="thunderstorms" qualifier="none">
+            <visibility xsi:nil="true"/>
+          </value>
+          <value coverage="slight chance" intensity="light" additive="and" weather-type="rain showers" qualifier="none">
+            <visibility xsi:nil="true"/>
+          </value>
+        </weather-conditions>
+        <weather-conditions>
+          <value coverage="chance" intensity="light" weather-type="rain showers" qualifier="none">
+            <visibility xsi:nil="true"/>
+          </value>
+        </weather-conditions>
+        <weather-conditions>
+          <value coverage="chance" intensity="light" weather-type="rain showers" qualifier="none">
+            <visibility xsi:nil="true"/>
+          </value>
+        </weather-conditions>
+        <weather-conditions>
+          <value coverage="chance" intensity="light" weather-type="rain showers" qualifier="none">
+            <visibility units="statute miles">5</visibility>
+          </value>
+        </weather-conditions>
+        <weather-conditions>
+          <value coverage="chance" intensity="light" weather-type="rain showers" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+          <value coverage="slight chance" intensity="none" additive="and" weather-type="thunderstorms" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+        </weather-conditions>
+        <weather-conditions>
+          <value coverage="chance" intensity="light" weather-type="rain showers" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+          <value coverage="slight chance" intensity="none" additive="and" weather-type="thunderstorms" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+        </weather-conditions>
+        <weather-conditions>
+          <value coverage="chance" intensity="none" weather-type="thunderstorms" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+          <value coverage="chance" intensity="light" additive="and" weather-type="rain showers" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+        </weather-conditions>
+        <weather-conditions>
+          <value coverage="chance" intensity="none" weather-type="thunderstorms" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+          <value coverage="chance" intensity="light" additive="and" weather-type="rain showers" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+        </weather-conditions>
+        <weather-conditions>
+          <value coverage="slight chance" intensity="none" weather-type="thunderstorms" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+          <value coverage="slight chance" intensity="light" additive="and" weather-type="rain showers" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+        </weather-conditions>
+        <weather-conditions>
+          <value coverage="slight chance" intensity="none" weather-type="thunderstorms" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+          <value coverage="slight chance" intensity="light" additive="and" weather-type="rain showers" qualifier="none">
+            <visibility units="statute miles">4</visibility>
+          </value>
+        </weather-conditions>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+        <weather-conditions/>
+      </weather>
+    </parameters>
+  </data>
+</dwml>
