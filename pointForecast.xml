@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Forecast location="2 Miles ENE Ireland IN" lat="38.43N" lon="86.95W" elevation="499">
+<icon-location>http://forecast.weather.gov/</icon-location><creationTime>7:30 pm EDT Aug 30, 2016</creationTime>
+<period>
+<valid>Tonight</valid>
+<image>newimages/medium/nscttsra.png</image>
+<pop>20</pop>
+<weather>Isolated T-storms</weather>
+<temp hilo="L" format="F">71</temp>
+<text>Isolated showers and thunderstorms before 5am.  Mostly cloudy, with a low around 71. North wind around 5 mph becoming calm  in the evening.  Chance of precipitation is 20%.</text>
+</period>
+<period>
+<valid>Wednesday</valid>
+<image>newimages/medium/scttsra.png</image>
+<pop>60</pop>
+<weather>T-storms Likely</weather>
+<temp hilo="H" format="F">85</temp>
+<text>Showers and thunderstorms likely, mainly after 3pm.  Partly sunny, with a high near 85. Calm wind becoming northwest 5 to 7 mph in the afternoon.  Chance of precipitation is 60%. New rainfall amounts of less than a tenth of an inch, except higher amounts possible in thunderstorms. </text>
+</period>
+<period>
+<valid>Wednesday Night</valid>
+<image>DualImage.php?i=ntsra&amp;j=ntsra&amp;ip=60&amp;jp=20</image>
+<pop>60</pop>
+<weather>T-storms Likely then Slight Chance T-storms</weather>
+<temp hilo="L" format="F">64</temp>
+<text>Showers and thunderstorms likely, mainly before 9pm.  Mostly cloudy, with a low around 64. North wind around 7 mph.  Chance of precipitation is 60%. New rainfall amounts of less than a tenth of an inch, except higher amounts possible in thunderstorms. </text>
+</period>
+<period>
+<valid>Thursday</valid>
+<image>newimages/medium/sct.png</image>
+<weather>Mostly Sunny</weather>
+<temp hilo="H" format="F">79</temp>
+<text>Mostly sunny, with a high near 79. North wind 5 to 10 mph. </text>
+</period>
+<period>
+<valid>Thursday Night</valid>
+<image>newimages/medium/nfew.png</image>
+<weather>Mostly Clear</weather>
+<temp hilo="L" format="F">58</temp>
+<text>Mostly clear, with a low around 58. North wind 6 to 9 mph. </text>
+</period>
+<period>
+<valid>Friday</valid>
+<image>newimages/medium/few.png</image>
+<weather>Sunny</weather>
+<temp hilo="H" format="F">78</temp>
+<text>Sunny, with a high near 78.</text>
+</period>
+<period>
+<valid>Friday Night</valid>
+<image>newimages/medium/nfew.png</image>
+<weather>Mostly Clear</weather>
+<temp hilo="L" format="F">57</temp>
+<text>Mostly clear, with a low around 57.</text>
+</period>
+<period>
+<valid>Saturday</valid>
+<image>newimages/medium/skc.png</image>
+<weather>Sunny</weather>
+<temp hilo="H" format="F">81</temp>
+<text>Sunny, with a high near 81.</text>
+</period>
+<period>
+<valid>Saturday Night</valid>
+<image>newimages/medium/nfew.png</image>
+<weather>Mostly Clear</weather>
+<temp hilo="L" format="F">61</temp>
+<text>Mostly clear, with a low around 61.</text>
+</period>
+<period>
+<valid>Sunday</valid>
+<image>newimages/medium/few.png</image>
+<weather>Sunny</weather>
+<temp hilo="H" format="F">86</temp>
+<text>Sunny, with a high near 86.</text>
+</period>
+<period>
+<valid>Sunday Night</valid>
+<image>newimages/medium/nfew.png</image>
+<weather>Mostly Clear</weather>
+<temp hilo="L" format="F">66</temp>
+<text>Mostly clear, with a low around 66.</text>
+</period>
+<period>
+<valid>Labor Day</valid>
+<image>newimages/medium/sct.png</image>
+<weather>Mostly Sunny</weather>
+<temp hilo="H" format="F">87</temp>
+<text>Mostly sunny, with a high near 87.</text>
+</period>
+<period>
+<valid>Monday Night</valid>
+<image>newimages/medium/nfew.png</image>
+<weather>Mostly Clear</weather>
+<temp hilo="L" format="F">67</temp>
+<text>Mostly clear, with a low around 67.</text>
+</period>
+<period>
+<valid>Tuesday</valid>
+<image>newimages/medium/few.png</image>
+<weather>Sunny</weather>
+<temp hilo="H" format="F">87</temp>
+<text>Sunny, with a high near 87.</text>
+</period>
+</Forecast>

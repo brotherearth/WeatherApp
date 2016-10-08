@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<station id="KTMK" name="Tillamook, Tillamook Airport" elev="36" lat="45.41806" lon="-123.81444"  provider="NWS/FAA">
+<ob time="30 Aug 5:35 pm" utime="1472603700">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='230'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='12'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Partly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT041'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.02'/>
+<variable var='P' description='Station Pressure' unit='inches' value='29.990'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 5:15 pm" utime="1472602500">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='55'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='220'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='9'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Partly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT044'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.02'/>
+<variable var='P' description='Station Pressure' unit='inches' value='29.990'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 4:55 pm" utime="1472601300">
+<variable var='T' description='Temp' unit='F' value='70'/>
+<variable var='TD' description='Dewp' unit='F' value='55'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='230'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='9'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Mostly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN044 BKN050'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.03'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.000'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 4:35 pm" utime="1472600100">
+<variable var='T' description='Temp' unit='F' value='70'/>
+<variable var='TD' description='Dewp' unit='F' value='55'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='220'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='6'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC047'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.03'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.000'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 4:15 pm" utime="1472598900">
+<variable var='T' description='Temp' unit='F' value='70'/>
+<variable var='TD' description='Dewp' unit='F' value='55'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='250'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WSW'/>
+<variable var='FF' description='Wind' unit='mph' value='7'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT039 OVC047'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 3:55 pm" utime="1472597700">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='240'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WSW'/>
+<variable var='FF' description='Wind' unit='mph' value='10'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT034 OVC043'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 3:35 pm" utime="1472596500">
+<variable var='T' description='Temp' unit='F' value='70'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='56'/>
+<variable var='DD' description='Direction' unit='deg' value='220'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='9'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN034 OVC040'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 3:15 pm" utime="1472595300">
+<variable var='T' description='Temp' unit='F' value='70'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='56'/>
+<variable var='DD' description='Direction' unit='deg' value='220'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='12'/>
+<variable var='FFGUST' description='Gust' unit='mph' value='18'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC032'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 2:55 pm" utime="1472594100">
+<variable var='T' description='Temp' unit='F' value='70'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='56'/>
+<variable var='DD' description='Direction' unit='deg' value='220'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='7'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC030'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 2:35 pm" utime="1472592900">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='55'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='200'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SSW'/>
+<variable var='FF' description='Wind' unit='mph' value='8'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN028 OVC032'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 2:15 pm" utime="1472591700">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='55'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='240'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WSW'/>
+<variable var='FF' description='Wind' unit='mph' value='9'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT019 BKN028 OVC035'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 1:55 pm" utime="1472590500">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='57'/>
+<variable var='RH' description='Relh' unit='%' value='73'/>
+<variable var='DD' description='Direction' unit='deg' value='180'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='S'/>
+<variable var='FF' description='Wind' unit='mph' value='3'/>
+<variable var='VV' description='Visibility' unit='miles' value='7.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT017 SCT023 OVC030'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.05'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.020'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 1:35 pm" utime="1472589300">
+<variable var='T' description='Temp' unit='F' value='64'/>
+<variable var='TD' description='Dewp' unit='F' value='59'/>
+<variable var='RH' description='Relh' unit='%' value='83'/>
+<variable var='DD' description='Direction' unit='deg' value='210'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SSW'/>
+<variable var='FF' description='Wind' unit='mph' value='8'/>
+<variable var='VV' description='Visibility' unit='miles' value='7.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN028 OVC037'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.05'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.020'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 1:15 pm" utime="1472588100">
+<variable var='T' description='Temp' unit='F' value='64'/>
+<variable var='TD' description='Dewp' unit='F' value='59'/>
+<variable var='RH' description='Relh' unit='%' value='83'/>
+<variable var='DD' description='Direction' unit='deg' value='210'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SSW'/>
+<variable var='FF' description='Wind' unit='mph' value='10'/>
+<variable var='VV' description='Visibility' unit='miles' value='7.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT026 BKN038 OVC044'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.05'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.020'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 12:55 pm" utime="1472586900">
+<variable var='T' description='Temp' unit='F' value='64'/>
+<variable var='TD' description='Dewp' unit='F' value='57'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='230'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='10'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT025 SCT031 OVC039'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 12:35 pm" utime="1472585700">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='55'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='240'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WSW'/>
+<variable var='FF' description='Wind' unit='mph' value='10'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT023 BKN034 OVC040'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 12:15 pm" utime="1472584500">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='55'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='230'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='8'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT026 OVC033'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 11:55 am" utime="1472583300">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='55'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='240'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WSW'/>
+<variable var='FF' description='Wind' unit='mph' value='9'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC030'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 11:35 am" utime="1472582100">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='250'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WSW'/>
+<variable var='FF' description='Wind' unit='mph' value='7'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN028 OVC035'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 11:15 am" utime="1472580900">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='190'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='S'/>
+<variable var='FF' description='Wind' unit='mph' value='6'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT026 OVC035'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 10:55 am" utime="1472579700">
+<variable var='T' description='Temp' unit='F' value='68'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='210'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SSW'/>
+<variable var='FF' description='Wind' unit='mph' value='7'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Mostly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN035'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 10:35 am" utime="1472578500">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='140'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SE'/>
+<variable var='FF' description='Wind' unit='mph' value='6'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Mostly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT024 BKN035'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.04'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.010'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 10:15 am" utime="1472577300">
+<variable var='T' description='Temp' unit='F' value='64'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT022 OVC035'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.05'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.020'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 9:55 am" utime="1472576100">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='110'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='ESE'/>
+<variable var='FF' description='Wind' unit='mph' value='3'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN022 OVC039'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.05'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.020'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 9:35 am" utime="1472574900">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC022'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.05'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.020'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 9:15 am" utime="1472573700">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN024 OVC036'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.05'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.020'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 8:55 am" utime="1472572500">
+<variable var='T' description='Temp' unit='F' value='61'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='72'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN024 OVC038'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.05'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.020'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 8:35 am" utime="1472571300">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.06'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.030'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 8:15 am" utime="1472570100">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN026 OVC033'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.06'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.030'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 7:55 am" utime="1472568900">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN028 OVC033'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.06'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.030'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 7:35 am" utime="1472567700">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT019 SCT025 OVC031'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 7:15 am" utime="1472566500">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT019 BKN023 OVC029'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.06'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.030'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 6:55 am" utime="1472565300">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN023 OVC029'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 6:35 am" utime="1472564100">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN023 OVC029'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 6:20 am" utime="1472563200">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN021 OVC025'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 5:55 am" utime="1472561700">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 5:35 am" utime="1472560500">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC022'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 5:15 am" utime="1472559300">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 4:55 am" utime="1472558100">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='40'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='NE'/>
+<variable var='FF' description='Wind' unit='mph' value='3'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 4:35 am" utime="1472556900">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 4:15 am" utime="1472555700">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 3:55 am" utime="1472554500">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='170'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='S'/>
+<variable var='FF' description='Wind' unit='mph' value='5'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 3:35 am" utime="1472553300">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 3:15 am" utime="1472552100">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 2:55 am" utime="1472550900">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 2:35 am" utime="1472549700">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='140'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SE'/>
+<variable var='FF' description='Wind' unit='mph' value='5'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 2:15 am" utime="1472548500">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='140'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SE'/>
+<variable var='FF' description='Wind' unit='mph' value='3'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 1:55 am" utime="1472547300">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 1:35 am" utime="1472546100">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 1:15 am" utime="1472544900">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 12:55 am" utime="1472543700">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 12:35 am" utime="1472542500">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="30 Aug 12:15 am" utime="1472541300">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 11:55 pm" utime="1472540100">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 11:35 pm" utime="1472538900">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='130'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SE'/>
+<variable var='FF' description='Wind' unit='mph' value='3'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 11:15 pm" utime="1472537700">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 10:55 pm" utime="1472536500">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 10:35 pm" utime="1472535300">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC028'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 10:15 pm" utime="1472534100">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 9:55 pm" utime="1472532900">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='150'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SSE'/>
+<variable var='FF' description='Wind' unit='mph' value='6'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 9:35 pm" utime="1472531700">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='160'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SSE'/>
+<variable var='FF' description='Wind' unit='mph' value='3'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 9:15 pm" utime="1472530500">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 8:55 pm" utime="1472529300">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 8:35 pm" utime="1472528100">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC026'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 8:15 pm" utime="1472526900">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 7:55 pm" utime="1472525700">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 7:35 pm" utime="1472524500">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 7:15 pm" utime="1472523300">
+<variable var='T' description='Temp' unit='F' value='61'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='72'/>
+<variable var='DD' description='Direction' unit='deg' value='210'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SSW'/>
+<variable var='FF' description='Wind' unit='mph' value='5'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 6:55 pm" utime="1472522100">
+<variable var='T' description='Temp' unit='F' value='61'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='220'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='7'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 6:35 pm" utime="1472520900">
+<variable var='T' description='Temp' unit='F' value='61'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='190'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='S'/>
+<variable var='FF' description='Wind' unit='mph' value='8'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC020'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 6:15 pm" utime="1472519700">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='72'/>
+<variable var='DD' description='Direction' unit='deg' value='210'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SSW'/>
+<variable var='FF' description='Wind' unit='mph' value='9'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC022'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 5:55 pm" utime="1472518500">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='72'/>
+<variable var='DD' description='Direction' unit='deg' value='200'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SSW'/>
+<variable var='FF' description='Wind' unit='mph' value='7'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 5:35 pm" utime="1472517300">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='72'/>
+<variable var='DD' description='Direction' unit='deg' value='190'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='S'/>
+<variable var='FF' description='Wind' unit='mph' value='7'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 5:15 pm" utime="1472516100">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='72'/>
+<variable var='DD' description='Direction' unit='deg' value='180'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='S'/>
+<variable var='FF' description='Wind' unit='mph' value='8'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 4:55 pm" utime="1472514900">
+<variable var='T' description='Temp' unit='F' value='64'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='220'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='7'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 4:35 pm" utime="1472513700">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='230'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='SW'/>
+<variable var='FF' description='Wind' unit='mph' value='8'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Mostly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 4:15 pm" utime="1472512500">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='240'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WSW'/>
+<variable var='FF' description='Wind' unit='mph' value='9'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Partly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 3:55 pm" utime="1472511300">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='250'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WSW'/>
+<variable var='FF' description='Wind' unit='mph' value='10'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Mostly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 3:35 pm" utime="1472510100">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='60'/>
+<variable var='DD' description='Direction' unit='deg' value='190'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='S'/>
+<variable var='FF' description='Wind' unit='mph' value='9'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Mostly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN024'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 3:15 pm" utime="1472508900">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='270'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='W'/>
+<variable var='FF' description='Wind' unit='mph' value='9'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Partly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT022'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 2:55 pm" utime="1472507700">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='300'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WNW'/>
+<variable var='FF' description='Wind' unit='mph' value='14'/>
+<variable var='FFGUST' description='Gust' unit='mph' value='18'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Partly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT020'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 2:35 pm" utime="1472506500">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='290'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WNW'/>
+<variable var='FF' description='Wind' unit='mph' value='6'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Mostly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN020'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.07'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.040'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 2:15 pm" utime="1472505300">
+<variable var='T' description='Temp' unit='F' value='64'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='320'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='NW'/>
+<variable var='FF' description='Wind' unit='mph' value='8'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Mostly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN018'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 1:55 pm" utime="1472504100">
+<variable var='T' description='Temp' unit='F' value='64'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='290'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WNW'/>
+<variable var='FF' description='Wind' unit='mph' value='8'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC016'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 1:35 pm" utime="1472502900">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='72'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC016'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 1:15 pm" utime="1472501700">
+<variable var='T' description='Temp' unit='F' value='61'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC014'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 12:55 pm" utime="1472500500">
+<variable var='T' description='Temp' unit='F' value='61'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 12:35 pm" utime="1472499300">
+<variable var='T' description='Temp' unit='F' value='61'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 12:15 pm" utime="1472498100">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 11:55 am" utime="1472496900">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 11:35 am" utime="1472495700">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 11:15 am" utime="1472494500">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 10:55 am" utime="1472493300">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 10:35 am" utime="1472492100">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC014'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 10:15 am" utime="1472490900">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC014'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 9:55 am" utime="1472489700">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='88'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='5.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fog'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value='BR'/>
+<variable var='SKY' description='Clouds' unit='' value='SCT005 OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 9:35 am" utime="1472488500">
+<variable var='T' description='Temp' unit='F' value='55'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT005 OVC010'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 9:15 am" utime="1472487300">
+<variable var='T' description='Temp' unit='F' value='55'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='7.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT005 OVC010'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 8:55 am" utime="1472486100">
+<variable var='T' description='Temp' unit='F' value='55'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='7.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN007 OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.12'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.090'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 8:35 am" utime="1472484900">
+<variable var='T' description='Temp' unit='F' value='55'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT005 OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 8:15 am" utime="1472483700">
+<variable var='T' description='Temp' unit='F' value='55'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='7.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 7:55 am" utime="1472482500">
+<variable var='T' description='Temp' unit='F' value='55'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 7:35 am" utime="1472481300">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 7:15 am" utime="1472480100">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC012'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 6:55 am" utime="1472478900">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC014'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 6:35 am" utime="1472477700">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC014'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 6:15 am" utime="1472476500">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT005 SCT009 OVC014'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 5:55 am" utime="1472475300">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN005 OVC009'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 5:35 am" utime="1472474100">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN008 OVC014'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 5:15 am" utime="1472472900">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='BKN004 BKN008 OVC014'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 4:55 am" utime="1472471700">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC004'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 4:35 am" utime="1472470500">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC002'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 4:15 am" utime="1472469300">
+<variable var='T' description='Temp' unit='F' value='52'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='100'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC004'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 3:55 am" utime="1472468100">
+<variable var='T' description='Temp' unit='F' value='52'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='100'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='7.00'/>
+<variable var='WEA' description='Weather' unit='' value='Overcast'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='OVC002'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 3:35 am" utime="1472466900">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='5.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fog'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value='BR'/>
+<variable var='SKY' description='Clouds' unit='' value='OVC002'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 3:15 am" utime="1472465700">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='2.50'/>
+<variable var='WEA' description='Weather' unit='' value='Fog'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value='BR'/>
+<variable var='SKY' description='Clouds' unit='' value='OVC002'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 2:55 am" utime="1472464500">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='100'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='1.25'/>
+<variable var='WEA' description='Weather' unit='' value='Fog'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value='BR'/>
+<variable var='SKY' description='Clouds' unit='' value='OVC002'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 2:35 am" utime="1472463300">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='1.50'/>
+<variable var='WEA' description='Weather' unit='' value='Fog'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value='BR'/>
+<variable var='SKY' description='Clouds' unit='' value='OVC002'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 2:15 am" utime="1472462100">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='1.75'/>
+<variable var='WEA' description='Weather' unit='' value='Fog'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value='BR'/>
+<variable var='SKY' description='Clouds' unit='' value='OVC002'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 1:55 am" utime="1472460900">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='7.00'/>
+<variable var='WEA' description='Weather' unit='' value='Partly Cloudy'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='SCT002'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 1:35 am" utime="1472459700">
+<variable var='T' description='Temp' unit='F' value='52'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 1:15 am" utime="1472458500">
+<variable var='T' description='Temp' unit='F' value='52'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.11'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.080'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 12:55 am" utime="1472457300">
+<variable var='T' description='Temp' unit='F' value='52'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 12:35 am" utime="1472456100">
+<variable var='T' description='Temp' unit='F' value='52'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="29 Aug 12:15 am" utime="1472454900">
+<variable var='T' description='Temp' unit='F' value='52'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 11:55 pm" utime="1472453700">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='88'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 11:35 pm" utime="1472452500">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='94'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 11:15 pm" utime="1472451300">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='88'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 10:55 pm" utime="1472450100">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='88'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 10:35 pm" utime="1472448900">
+<variable var='T' description='Temp' unit='F' value='54'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='88'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 10:15 pm" utime="1472447700">
+<variable var='T' description='Temp' unit='F' value='55'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 9:55 pm" utime="1472446500">
+<variable var='T' description='Temp' unit='F' value='55'/>
+<variable var='TD' description='Dewp' unit='F' value='50'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 9:35 pm" utime="1472445300">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.10'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.070'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 9:15 pm" utime="1472444100">
+<variable var='T' description='Temp' unit='F' value='57'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='82'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 8:55 pm" utime="1472442900">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.09'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.060'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 8:35 pm" utime="1472441700">
+<variable var='T' description='Temp' unit='F' value='59'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='77'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 8:15 pm" utime="1472440500">
+<variable var='T' description='Temp' unit='F' value='61'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='72'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 7:55 pm" utime="1472439300">
+<variable var='T' description='Temp' unit='F' value='61'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='72'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 7:35 pm" utime="1472438100">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 7:15 pm" utime="1472436900">
+<variable var='T' description='Temp' unit='F' value='63'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='68'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 6:55 pm" utime="1472435700">
+<variable var='T' description='Temp' unit='F' value='64'/>
+<variable var='TD' description='Dewp' unit='F' value='52'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='300'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='WNW'/>
+<variable var='FF' description='Wind' unit='mph' value='6'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 6:35 pm" utime="1472434500">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='0'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='CALM'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+<ob time="28 Aug 6:15 pm" utime="1472433300">
+<variable var='T' description='Temp' unit='F' value='66'/>
+<variable var='TD' description='Dewp' unit='F' value='54'/>
+<variable var='RH' description='Relh' unit='%' value='64'/>
+<variable var='DD' description='Direction' unit='deg' value='260'/>
+<variable var='DDCARD' description='Wind Card' unit='direction' value='W'/>
+<variable var='FF' description='Wind' unit='mph' value='6'/>
+<variable var='VV' description='Visibility' unit='miles' value='10.00'/>
+<variable var='WEA' description='Weather' unit='' value='Fair'/>
+<variable var='PRESWEA' description='Coded Weather' unit='' value=''/>
+<variable var='SKY' description='Clouds' unit='' value='CLR'/>
+<variable var='ALTSE' description='Altimeter' unit='inches' value='30.08'/>
+<variable var='P' description='Station Pressure' unit='inches' value='30.050'/>
+<variable var='STAQUAL' description='Station Quality' unit='' value='OK'/>
+</ob>
+</station>
