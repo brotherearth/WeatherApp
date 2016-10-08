@@ -12,6 +12,9 @@ public class Forecast {
 	private int [] hrlyTemps;
 	private int [] probPrecHrly;
 	private int [] cloudCover;
+	private int [] windDirection;
+	private int [] windSpeed;
+	private int [] relHumid;
 
 	private double [] doubleErrorCatch = {1.1, 2.2, 3.3};
 	private double [] liqPrecAmt;
@@ -28,6 +31,21 @@ public class Forecast {
 		popLiqPrecAmt();
 		popSnowAmt();
 		popHrlyTemps();
+		popWindDirection();
+		popWindSpeed();
+		popRelHumid();
+	}
+
+	public int [] getWindDirection() {
+		return windDirection;
+	}
+	
+	public int [] getWindSpeed() {
+		return windSpeed;
+	}
+	
+	public int [] getRelHumid() {
+		return relHumid;
 	}
 	
 	public int [] getHighTemps() {
@@ -65,37 +83,40 @@ public class Forecast {
 	public void popHighTemps() {
 		highTemps = getSection(doc, "temperature", "name", "Daily Maximum Temperature", "value");
 	}
-	
-	
+
 	public void popLowTemps() {
 		lowTemps = getSection(doc, "temperature", "name", "Daily Minimum Temperature", "value");			
 	}
-	
-
 	
 	public void popHrlyPrec() {
 		probPrecHrly = getSection(doc, "probability-of-precipitation", "name", "12 Hourly Probability of Precipitation", "value");			
 	}
 	
-
-	
 	public void popCloudCover() {
 		cloudCover = getSection(doc, "cloud-amount", "name", "Cloud Cover Amount", "value");			
 	}
 	
-
+	public void popWindDirection() {
+		windDirection = getSection(doc, "direction", "name", "Wind Direction", "value");
+	}
+	
+	public void popWindSpeed() {
+		windSpeed = getSection(doc, "wind-speed", "name", "Wind Speed", "value");
+	}
+	
+	public void popRelHumid() {
+		relHumid = getSection(doc, "humidity", "name", "Relative Humidity", "value");
+	}
 	
 	public void popLiqPrecAmt() {
 		liqPrecAmt = getDoubleSection(doc, "precipitation", "name", "Liquid Precipitation Amount", "value");			
 	}
 	
-
-	
 	public void popSnowAmt() {
 		snowAmt = getDoubleSection(doc, "precipitation", "name", "Snow Amount", "value");			
 	}
 	
-	
+	// populate double arrays with data from document (weather XML file)
 	public double [] getDoubleSection(Document doc, String parent, String child, String childTxt, String sibling) {
 		
 		NodeList nList = doc.getElementsByTagName(parent);							// find matching categories and generate list
@@ -136,8 +157,11 @@ public class Forecast {
 					}
 				}
 			}
+		// not sure what to do with this yet
 		return doubleErrorCatch;
 		}
+	
+	// populate int arrays with data from document (weather XML file)
 	public int [] getSection(Document doc, String parent, String child, String childTxt, String sibling) {
 		
 		NodeList nList = doc.getElementsByTagName(parent);							// find matching categories and generate list

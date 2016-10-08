@@ -21,5 +21,7 @@ public class ForecastByLocation {
 	  myForecast.printSnowAmt(); */
 	  
 	  WeatherFactory myFactory = new WalkForecast();
+	  // myFactory.displayNew();
+	  myFactory.nowCast();
   }
 }
